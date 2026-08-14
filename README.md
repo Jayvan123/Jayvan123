@@ -2,9 +2,22 @@
 
 # Hi, I'm Jayvan 👋
 
-### Full-Stack Explorer
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=A+Full-Stack+Developer+specializing+in...;Modern+Web+Development;Frontend+%26+Backend+Applications;Cross-Platform+Mobile+Development;Clean+and+Functional+UI%2FUX"
+  alt="Typing SVG"
+/>
+
+<br>
 
 I build clean, responsive, and user-friendly digital experiences using modern web and mobile technologies.
+
+<br><br>
+
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="Jayvan's 3D GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -78,7 +91,6 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> -->
 </p>
 
 <br>
@@ -92,4 +104,3 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 </p>
 
 </div>
-
