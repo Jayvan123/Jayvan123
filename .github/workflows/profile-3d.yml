@@ -22,11 +22,15 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: Select the latest calendar year
+        run: echo "CURRENT_YEAR=$(date -u +%Y)" >> "$GITHUB_ENV"
+
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          YEAR: ${{ env.CURRENT_YEAR }}
 
       - name: Commit generated graph
         run: |
