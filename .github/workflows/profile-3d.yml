@@ -1,6 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  # Generate the graph as soon as this workflow is first installed or updated.
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d.yml"
   schedule:
     # Run daily at 03:00 Philippine Standard Time (19:00 UTC).
     - cron: "0 19 * * *"
