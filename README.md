@@ -2,7 +2,7 @@
 
 # Hi, I'm Jayvan 👋
 
-### Developer • UI Enthusiast • Full-Stack Explorer
+### Full-Stack Explorer
 
 I build clean, responsive, and user-friendly digital experiences using modern web and mobile technologies.
 
@@ -93,38 +93,3 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 
 </div>
 
----
-
-## 🚀 What I Work With
-
-### Frontend
-I build responsive and reusable interfaces with technologies such as **React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript**.
-
-### Backend
-I work with **Node.js, Express.js, and Laravel** for server-side applications, APIs, and data-driven systems.
-
-### Mobile
-I explore and build cross-platform applications using **React Native, Expo, and Flutter**.
-
-### Database
-I work with relational and NoSQL databases including **MySQL, PostgreSQL, and MongoDB**.
-
-### UI / UX
-I use **Figma** for interface design, prototyping, and planning user experiences before development.
-
-### Development Workflow
-I use **Git** for version control and **Postman** for API development and testing.
-
----
-
-## 🎯 What I Like Building
-
-```text
-🌐 Responsive Websites
-⚛️ Modern Web Applications
-🎨 Interactive User Interfaces
-🧩 Reusable UI Components
-📱 Cross-Platform Mobile Applications
-⚙️ REST APIs & Backend Systems
-🗄️ Database-Driven Applications
-✨ Clean & Functional User Experiences
