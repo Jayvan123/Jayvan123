@@ -2,7 +2,7 @@
 
 # Hi, I'm Jayvan 👋
 
-### Full-Stack Developer
+### Developer • UI Enthusiast • Full-Stack Explorer
 
 I build clean, responsive, and user-friendly digital experiences using modern web and mobile technologies.
 
@@ -15,63 +15,116 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 - 💻 I enjoy building **modern, responsive interfaces** and reusable components.
 - 🎨 I care about **clean UI, thoughtful UX, and polished interactions**.
 - 🚀 I work with both **frontend and backend technologies** to turn ideas into functional products.
-- 📱 I also explore **cross-platform mobile development with Flutter**.
-- 🛠️ I use **Git** to keep development organized, maintainable, and collaborative.
-- 🌱 I’m continuously improving my skills and learning better ways to build useful digital experiences.
+- 📱 I build and explore **cross-platform mobile applications**.
+- 🛠️ I use modern development tools and workflows to create maintainable projects.
+- 🌱 I’m continuously learning and improving my development skills.
 
 ---
 
-## 🧰 Tech Stack
+<div align="center">
 
-### 🎨 Frontend & Design
+# 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,bootstrap,figma" alt="Frontend and Design Technologies" />
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
-| Technology | Focus |
-|---|---|
-| **React** | Component-based web interfaces |
-| **Flutter** | Cross-platform mobile applications |
-| **HTML5** | Semantic web structure |
-| **CSS3** | Styling and responsive layouts |
-| **JavaScript** | Interactive web experiences |
-| **Tailwind CSS** | Utility-first interface development |
-| **Bootstrap** | Responsive UI components |
-| **Figma** | UI/UX design and prototyping |
+<br>
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
+
+<br>
+
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+</p>
+
+<br>
+
+### Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+</p>
+
+<br>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<br>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-### ⚙️ Backend
+## 🚀 What I Work With
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mongodb" alt="Backend Technologies" />
-</p>
+### Frontend
+I build responsive and reusable interfaces with technologies such as **React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript**.
 
-| Technology | Focus |
-|---|---|
-| **Laravel** | Server-side web applications and APIs |
-| **Node.js** | JavaScript-based backend development |
-| **MongoDB** | NoSQL data storage |
+### Backend
+I work with **Node.js, Express.js, and Laravel** for server-side applications, APIs, and data-driven systems.
 
----
+### Mobile
+I explore and build cross-platform applications using **React Native, Expo, and Flutter**.
 
-### 🔧 Workflow
+### Database
+I work with relational and NoSQL databases including **MySQL, PostgreSQL, and MongoDB**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Workflow Tools" />
-</p>
+### UI / UX
+I use **Figma** for interface design, prototyping, and planning user experiences before development.
 
-- **Git** — Version control and maintainable development workflows
+### Development Workflow
+I use **Git** for version control and **Postman** for API development and testing.
 
 ---
 
 ## 🎯 What I Like Building
 
 ```text
-Responsive Websites
-Modern Web Interfaces
-Reusable UI Components
-Cross-Platform Applications
-API-Powered Products
-Clean & Functional User Experiences
+🌐 Responsive Websites
+⚛️ Modern Web Applications
+🎨 Interactive User Interfaces
+🧩 Reusable UI Components
+📱 Cross-Platform Mobile Applications
+⚙️ REST APIs & Backend Systems
+🗄️ Database-Driven Applications
+✨ Clean & Functional User Experiences
