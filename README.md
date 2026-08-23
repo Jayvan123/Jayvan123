@@ -11,10 +11,17 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 <br><br>
 
 <!--
+  Previously: a full-width 3D GitHub contribution graph
+  (./profile-3d-contrib/profile-night-rainbow.svg) — the isometric grid +
+  radar chart + language donut shown in the screenshot. Replaced below
+  with a small looping "developer coding" GIF for a simpler, lighter-weight
+  header visual. To bring the contribution graph back, restore:
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Jayvan's 3D GitHub Contribution Graph" />
+-->
 <img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="Jayvan's 3D GitHub Contribution Graph"
+  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+  width="300"
+  alt="Animated developer coding at a laptop"
 />
 -->
 
@@ -30,8 +37,7 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 - 🚀 I work with both **frontend and backend technologies** to turn ideas into functional products.
 - 📱 I build and explore **cross-platform mobile applications**.
 - 🛠️ I use modern development tools and workflows to create maintainable projects.
-- 🌱 I’m continuously learning and improving my development skills.
--->
+- 🌱 I'm continuously learning and improving my development skills.
 
 ---
 
