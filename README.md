@@ -18,12 +18,6 @@ I build clean, responsive, and user-friendly digital experiences using modern we
   header visual. To bring the contribution graph back, restore:
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Jayvan's 3D GitHub Contribution Graph" />
 -->
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-  width="300"
-  alt="Animated developer coding at a laptop"
-/>
--->
 
 </div>
 
@@ -38,6 +32,7 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 - 📱 I build and explore **cross-platform mobile applications**.
 - 🛠️ I use modern development tools and workflows to create maintainable projects.
 - 🌱 I'm continuously learning and improving my development skills.
+-->
 
 ---
 
