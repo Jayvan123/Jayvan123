@@ -2,10 +2,7 @@
 
 # Hi, I'm Jayvan 👋
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=A+Full-Stack+Developer+specializing+in...;Modern+Web+Development;Frontend+%26+Backend+Applications;Cross-Platform+Mobile+Development;Clean+and+Functional+UI%2FUX"
-  alt="Typing SVG"
-/>
+<h3>Software Developer</h3>
 
 <br>
 
@@ -13,16 +10,19 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 
 <br><br>
 
+<!--
 <img
   src="./profile-3d-contrib/profile-night-rainbow.svg"
   width="100%"
   alt="Jayvan's 3D GitHub Contribution Graph"
 />
+-->
 
 </div>
 
 ---
 
+<!--
 ## 👨‍💻 About Me
 
 - 💻 I enjoy building **modern, responsive interfaces** and reusable components.
@@ -31,6 +31,7 @@ I build clean, responsive, and user-friendly digital experiences using modern we
 - 📱 I build and explore **cross-platform mobile applications**.
 - 🛠️ I use modern development tools and workflows to create maintainable projects.
 - 🌱 I’m continuously learning and improving my development skills.
+-->
 
 ---
 
